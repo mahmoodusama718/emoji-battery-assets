@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "gifs": [
+    {
+      "id": "heart",
+      "file": "gifs/cute/heart.gif",
+      "category": "cute",
+      "label": "Heart",
+      "premium": false
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": "bg_dark",
+      "file": "backgrounds/dark/bg_dark.png",
+      "category": "dark",
+      "label": "Dark",
+      "premium": false
+    }
+  ]
+}
