@@ -2,20 +2,145 @@
   "version": 1,
   "gifs": [
     {
-      "id": "heart",
-      "file": "gifs/cute/heart.gif",
+      "id": "cool1",
+      "file": "gifs/cool/cool1.gif",
+      "category": "cool",
+      "label": "Bunny Floral",
+      "premium": false
+    },
+    {
+      "id": "cool2",
+      "file": "gifs/cool/cool2.gif",
+      "category": "cool",
+      "label": "Bunny Purple",
+      "premium": false
+    },
+    {
+      "id": "cool3",
+      "file": "gifs/cool/cool3.gif",
+      "category": "cool",
+      "label": "Easter Egg",
+      "premium": false
+    },
+    {
+      "id": "cool4",
+      "file": "gifs/cool/cool4.gif",
+      "category": "cool",
+      "label": "Capybara Winter",
+      "premium": false
+    },
+    {
+      "id": "cool5",
+      "file": "gifs/cool/cool5.gif",
+      "category": "cool",
+      "label": "Capybara Plain",
+      "premium": false
+    },
+    {
+      "id": "cool6",
+      "file": "gifs/cool/cool6.gif",
+      "category": "cool",
+      "label": "Easter Basket",
+      "premium": false
+    },
+    {
+      "id": "cool7",
+      "file": "gifs/cool/cool7.gif",
+      "category": "cool",
+      "label": "Bunny Dab",
+      "premium": false
+    },
+    {
+      "id": "cool8",
+      "file": "gifs/cool/cool8.gif",
+      "category": "cool",
+      "label": "Capybara Cactus",
+      "premium": false
+    },
+    {
+      "id": "cool9",
+      "file": "gifs/cool/cool9.gif",
+      "category": "cool",
+      "label": "Capybara Lantern",
+      "premium": false
+    },
+    {
+      "id": "cool10",
+      "file": "gifs/cool/cool10.gif",
+      "category": "cool",
+      "label": "Capybara Spa",
+      "premium": false
+    },
+    {
+      "id": "cute1",
+      "file": "gifs/cute/cute1.gif",
       "category": "cute",
-      "label": "Heart",
+      "label": "Bunny Dab Eggs",
+      "premium": false
+    },
+    {
+      "id": "cute2",
+      "file": "gifs/cute/cute2.gif",
+      "category": "cute",
+      "label": "Bunny Basket",
+      "premium": false
+    },
+    {
+      "id": "cute3",
+      "file": "gifs/cute/cute3.gif",
+      "category": "cute",
+      "label": "Bunny Pink Dab",
+      "premium": false
+    },
+    {
+      "id": "cute4",
+      "file": "gifs/cute/cute4.gif",
+      "category": "cute",
+      "label": "Bunny Hoodie",
+      "premium": false
+    },
+    {
+      "id": "cute5",
+      "file": "gifs/cute/cute5.gif",
+      "category": "cute",
+      "label": "Bunny Bow",
+      "premium": false
+    },
+    {
+      "id": "cute6",
+      "file": "gifs/cute/cute6.gif",
+      "category": "cute",
+      "label": "Bunny Happy",
+      "premium": false
+    },
+    {
+      "id": "cute7",
+      "file": "gifs/cute/cute7.gif",
+      "category": "cute",
+      "label": "Capybara Avocado",
+      "premium": false
+    },
+    {
+      "id": "cute8",
+      "file": "gifs/cute/cute8.gif",
+      "category": "cute",
+      "label": "Capybara Sleepy",
+      "premium": false
+    },
+    {
+      "id": "cute9",
+      "file": "gifs/cute/cute9.gif",
+      "category": "cute",
+      "label": "Capybara Coffee",
+      "premium": false
+    },
+    {
+      "id": "cute10",
+      "file": "gifs/cute/cute10.gif",
+      "category": "cute",
+      "label": "Bunny Pink",
       "premium": false
     }
   ],
-  "backgrounds": [
-    {
-      "id": "bg_dark",
-      "file": "backgrounds/dark/bg_dark.png",
-      "category": "dark",
-      "label": "Dark",
-      "premium": false
-    }
-  ]
+  "backgrounds": []
 }
