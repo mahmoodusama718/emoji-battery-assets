@@ -1,146 +1,276 @@
 {
   "version": 1,
-  "gifs": [
+  "manifestUrl": "",
+  "branding": {
+    "appNameKey": "appName",
+    "primaryColor": "#FF6B9D",
+    "secondaryColor": "#FFB6C1",
+    "accentColor": "#FFD700",
+    "surfaceColor": "#FFF5F8",
+    "onPrimaryColor": "#FFFFFF",
+    "backgroundImageUrl": "",
+    "logoImageUrl": "",
+    "fontFamily": null
+  },
+  "collections": [
+    {
+      "id": "hot",
+      "nameKey": "collectionHot",
+      "contentType": "battery_emoji",
+      "itemIds": ["cool1", "cool2", "cool3", "cute1", "cute2", "cute3"],
+      "sortOrder": 1,
+      "displayStyle": "horizontal"
+    },
+    {
+      "id": "popular",
+      "nameKey": "collectionPopular",
+      "contentType": "battery_emoji",
+      "itemIds": ["cool4", "cool5", "cool6", "cute4", "cute5", "cute6"],
+      "sortOrder": 2,
+      "displayStyle": "horizontal"
+    },
+    {
+      "id": "new",
+      "nameKey": "collectionNew",
+      "contentType": "battery_emoji",
+      "itemIds": ["cool7", "cool8", "cute7", "cute8"],
+      "sortOrder": 3,
+      "displayStyle": "horizontal"
+    },
+    {
+      "id": "trending",
+      "nameKey": "collectionTrending",
+      "contentType": "battery_emoji",
+      "itemIds": ["cool9", "cool10", "cute9", "cute10"],
+      "sortOrder": 4,
+      "displayStyle": "horizontal"
+    }
+  ],
+  "batteryEmojis": [
     {
       "id": "cool1",
-      "file": "gifs/cool/cool1.gif",
-      "category": "cool",
-      "label": "Bunny Floral",
-      "premium": false
+      "nameKey": "emoji_cool1",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool1.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool1.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cool", "gif"],
+      "badges": ["hot"]
     },
     {
       "id": "cool2",
-      "file": "gifs/cool/cool2.gif",
-      "category": "cool",
-      "label": "Bunny Purple",
-      "premium": false
+      "nameKey": "emoji_cool2",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool2.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool2.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cool", "gif"],
+      "badges": ["hot"]
     },
     {
       "id": "cool3",
-      "file": "gifs/cool/cool3.gif",
-      "category": "cool",
-      "label": "Easter Egg",
-      "premium": false
+      "nameKey": "emoji_cool3",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool3.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool3.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cool", "gif"],
+      "badges": ["hot"]
     },
     {
       "id": "cool4",
-      "file": "gifs/cool/cool4.gif",
-      "category": "cool",
-      "label": "Capybara Winter",
-      "premium": false
+      "nameKey": "emoji_cool4",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool4.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool4.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cool", "gif"],
+      "badges": ["popular"]
     },
     {
       "id": "cool5",
-      "file": "gifs/cool/cool5.gif",
-      "category": "cool",
-      "label": "Capybara Plain",
-      "premium": false
+      "nameKey": "emoji_cool5",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool5.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool5.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cool", "gif"],
+      "badges": ["popular"]
     },
     {
       "id": "cool6",
-      "file": "gifs/cool/cool6.gif",
-      "category": "cool",
-      "label": "Easter Basket",
-      "premium": false
+      "nameKey": "emoji_cool6",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool6.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool6.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cool", "gif"],
+      "badges": ["popular"]
     },
     {
       "id": "cool7",
-      "file": "gifs/cool/cool7.gif",
-      "category": "cool",
-      "label": "Bunny Dab",
-      "premium": false
+      "nameKey": "emoji_cool7",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool7.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool7.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cool", "gif"],
+      "badges": ["new"]
     },
     {
       "id": "cool8",
-      "file": "gifs/cool/cool8.gif",
-      "category": "cool",
-      "label": "Capybara Cactus",
-      "premium": false
+      "nameKey": "emoji_cool8",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool8.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool8.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cool", "gif"],
+      "badges": ["new"]
     },
     {
       "id": "cool9",
-      "file": "gifs/cool/cool9.gif",
-      "category": "cool",
-      "label": "Capybara Lantern",
-      "premium": false
+      "nameKey": "emoji_cool9",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool9.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool9.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cool", "gif"],
+      "badges": ["trending"]
     },
     {
       "id": "cool10",
-      "file": "gifs/cool/cool10.gif",
-      "category": "cool",
-      "label": "Capybara Spa",
-      "premium": false
+      "nameKey": "emoji_cool10",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool10.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool10.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cool", "gif"],
+      "badges": ["trending"]
     },
     {
       "id": "cute1",
-      "file": "gifs/cute/cute1.gif",
-      "category": "cute",
-      "label": "Bunny Dab Eggs",
-      "premium": false
+      "nameKey": "emoji_cute1",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute1.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute1.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cute", "gif"],
+      "badges": ["hot"]
     },
     {
       "id": "cute2",
-      "file": "gifs/cute/cute2.gif",
-      "category": "cute",
-      "label": "Bunny Basket",
-      "premium": false
+      "nameKey": "emoji_cute2",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute2.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute2.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cute", "gif"],
+      "badges": ["hot"]
     },
     {
       "id": "cute3",
-      "file": "gifs/cute/cute3.gif",
-      "category": "cute",
-      "label": "Bunny Pink Dab",
-      "premium": false
+      "nameKey": "emoji_cute3",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute3.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute3.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cute", "gif"],
+      "badges": ["hot"]
     },
     {
       "id": "cute4",
-      "file": "gifs/cute/cute4.gif",
-      "category": "cute",
-      "label": "Bunny Hoodie",
-      "premium": false
+      "nameKey": "emoji_cute4",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute4.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute4.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cute", "gif"],
+      "badges": ["popular"]
     },
     {
       "id": "cute5",
-      "file": "gifs/cute/cute5.gif",
-      "category": "cute",
-      "label": "Bunny Bow",
-      "premium": false
+      "nameKey": "emoji_cute5",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute5.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute5.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cute", "gif"],
+      "badges": ["popular"]
     },
     {
       "id": "cute6",
-      "file": "gifs/cute/cute6.gif",
-      "category": "cute",
-      "label": "Bunny Happy",
-      "premium": false
+      "nameKey": "emoji_cute6",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute6.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute6.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cute", "gif"],
+      "badges": ["popular"]
     },
     {
       "id": "cute7",
-      "file": "gifs/cute/cute7.gif",
-      "category": "cute",
-      "label": "Capybara Avocado",
-      "premium": false
+      "nameKey": "emoji_cute7",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute7.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute7.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cute", "gif"],
+      "badges": ["new"]
     },
     {
       "id": "cute8",
-      "file": "gifs/cute/cute8.gif",
-      "category": "cute",
-      "label": "Capybara Sleepy",
-      "premium": false
+      "nameKey": "emoji_cute8",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute8.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute8.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cute", "gif"],
+      "badges": ["new"]
     },
     {
       "id": "cute9",
-      "file": "gifs/cute/cute9.gif",
-      "category": "cute",
-      "label": "Capybara Coffee",
-      "premium": false
+      "nameKey": "emoji_cute9",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute9.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute9.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cute", "gif"],
+      "badges": ["trending"]
     },
     {
       "id": "cute10",
-      "file": "gifs/cute/cute10.gif",
-      "category": "cute",
-      "label": "Bunny Pink",
-      "premium": false
+      "nameKey": "emoji_cute10",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute10.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute10.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": ["cute", "gif"],
+      "badges": ["trending"]
     }
   ],
-  "backgrounds": []
+  "backgroundTemplates": [],
+  "statusBarIcons": [],
+  "stickers": [],
+  "notchStyles": [],
+  "gestures": []
 }
