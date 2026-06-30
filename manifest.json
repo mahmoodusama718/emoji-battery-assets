@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "manifestUrl": "",
   "branding": {
     "appNameKey": "appName",
@@ -624,7 +624,190 @@
     }
   ],
   "statusBarIcons": [],
-  "stickers": [],
+  "stickers": [
+    {
+      "id": "sticker_01",
+      "nameKey": "stickerEmotion01",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_01.png",
+      "localImageAsset": "",
+      "isPremium": false
+    },
+    {
+      "id": "sticker_02",
+      "nameKey": "stickerEmotion02",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_02.png",
+      "localImageAsset": "",
+      "isPremium": false
+    },
+    {
+      "id": "sticker_03",
+      "nameKey": "stickerEmotion03",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_03.png",
+      "localImageAsset": "",
+      "isPremium": false
+    },
+    {
+      "id": "sticker_04",
+      "nameKey": "stickerEmotion04",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_04.png",
+      "localImageAsset": "",
+      "isPremium": false
+    },
+    {
+      "id": "sticker_05",
+      "nameKey": "stickerEmotion05",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_05.png",
+      "localImageAsset": "",
+      "isPremium": false
+    },
+    {
+      "id": "sticker_06",
+      "nameKey": "stickerEmotion06",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_06.png",
+      "localImageAsset": "",
+      "isPremium": false
+    },
+    {
+      "id": "sticker_07",
+      "nameKey": "stickerEmotion07",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_07.png",
+      "localImageAsset": "",
+      "isPremium": false
+    },
+    {
+      "id": "sticker_08",
+      "nameKey": "stickerEmotion08",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_08.png",
+      "localImageAsset": "",
+      "isPremium": false
+    },
+    {
+      "id": "sticker_09",
+      "nameKey": "stickerEmotion09",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_09.png",
+      "localImageAsset": "",
+      "isPremium": true
+    },
+    {
+      "id": "sticker_10",
+      "nameKey": "stickerEmotion10",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_10.png",
+      "localImageAsset": "",
+      "isPremium": true
+    },
+    {
+      "id": "sticker_11",
+      "nameKey": "stickerEmotion11",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_11.png",
+      "localImageAsset": "",
+      "isPremium": true
+    },
+    {
+      "id": "sticker_12",
+      "nameKey": "stickerEmotion12",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_12.png",
+      "localImageAsset": "",
+      "isPremium": true
+    },
+    {
+      "id": "sticker_13",
+      "nameKey": "stickerEmotion13",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_13.png",
+      "localImageAsset": "",
+      "isPremium": true
+    },
+    {
+      "id": "sticker_14",
+      "nameKey": "stickerEmotion14",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_14.png",
+      "localImageAsset": "",
+      "isPremium": true
+    },
+    {
+      "id": "sticker_15",
+      "nameKey": "stickerEmotion15",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_15.png",
+      "localImageAsset": "",
+      "isPremium": true
+    },
+    {
+      "id": "sticker_16",
+      "nameKey": "stickerEmotion16",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_16.png",
+      "localImageAsset": "",
+      "isPremium": true
+    },
+    {
+      "id": "sticker_17",
+      "nameKey": "stickerEmotion17",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_17.png",
+      "localImageAsset": "",
+      "isPremium": true
+    },
+    {
+      "id": "sticker_18",
+      "nameKey": "stickerEmotion18",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_18.png",
+      "localImageAsset": "",
+      "isPremium": true
+    },
+    {
+      "id": "sticker_19",
+      "nameKey": "stickerEmotion19",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_19.png",
+      "localImageAsset": "",
+      "isPremium": true
+    },
+    {
+      "id": "sticker_20",
+      "nameKey": "stickerEmotion20",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_20.png",
+      "localImageAsset": "",
+      "isPremium": true
+    },
+    {
+      "id": "sticker_21",
+      "nameKey": "stickerEmotion21",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_21.png",
+      "localImageAsset": "",
+      "isPremium": true
+    },
+    {
+      "id": "sticker_22",
+      "nameKey": "stickerEmotion22",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_22.png",
+      "localImageAsset": "",
+      "isPremium": true
+    },
+    {
+      "id": "sticker_23",
+      "nameKey": "stickerEmotion23",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_23.png",
+      "localImageAsset": "",
+      "isPremium": true
+    },
+    {
+      "id": "sticker_24",
+      "nameKey": "stickerEmotion24",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_24.png",
+      "localImageAsset": "",
+      "isPremium": true
+    },
+    {
+      "id": "sticker_25",
+      "nameKey": "stickerEmotion25",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_25.png",
+      "localImageAsset": "",
+      "isPremium": true
+    },
+    {
+      "id": "sticker_26",
+      "nameKey": "stickerEmotion26",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/stickers/sticker_26.png",
+      "localImageAsset": "",
+      "isPremium": true
+    }
+  ],
   "notchStyles": [],
   "gestures": []
 }
