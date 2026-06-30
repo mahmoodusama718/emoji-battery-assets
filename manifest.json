@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 5,
   "manifestUrl": "",
   "branding": {
     "appNameKey": "appName",
@@ -14,59 +14,43 @@
   },
   "collections": [
     {
-      "id": "hot",
-      "nameKey": "collectionHot",
+      "id": "cool",
+      "displayName": "Cool",
+      "nameKey": "collectionCool",
       "contentType": "battery_emoji",
       "itemIds": [
         "cool1",
         "cool2",
         "cool3",
-        "cute1",
-        "cute2",
-        "cute3"
+        "cool4",
+        "cool5",
+        "cool6",
+        "cool7",
+        "cool8",
+        "cool9",
+        "cool10"
       ],
       "sortOrder": 1,
       "displayStyle": "horizontal"
     },
     {
-      "id": "popular",
-      "nameKey": "collectionPopular",
+      "id": "cute",
+      "displayName": "Cute",
+      "nameKey": "collectionCute",
       "contentType": "battery_emoji",
       "itemIds": [
-        "cool4",
-        "cool5",
-        "cool6",
+        "cute1",
+        "cute2",
+        "cute3",
         "cute4",
         "cute5",
-        "cute6"
-      ],
-      "sortOrder": 2,
-      "displayStyle": "horizontal"
-    },
-    {
-      "id": "new",
-      "nameKey": "collectionNew",
-      "contentType": "battery_emoji",
-      "itemIds": [
-        "cool7",
-        "cool8",
+        "cute6",
         "cute7",
-        "cute8"
-      ],
-      "sortOrder": 3,
-      "displayStyle": "horizontal"
-    },
-    {
-      "id": "trending",
-      "nameKey": "collectionTrending",
-      "contentType": "battery_emoji",
-      "itemIds": [
-        "cool9",
-        "cool10",
+        "cute8",
         "cute9",
         "cute10"
       ],
-      "sortOrder": 4,
+      "sortOrder": 2,
       "displayStyle": "horizontal"
     }
   ],
@@ -85,7 +69,8 @@
       ],
       "badges": [
         "hot"
-      ]
+      ],
+      "displayName": "Bunny Floral"
     },
     {
       "id": "cool2",
@@ -101,7 +86,8 @@
       ],
       "badges": [
         "hot"
-      ]
+      ],
+      "displayName": "Bunny Purple"
     },
     {
       "id": "cool3",
@@ -117,7 +103,8 @@
       ],
       "badges": [
         "hot"
-      ]
+      ],
+      "displayName": "Easter Egg"
     },
     {
       "id": "cool4",
@@ -133,7 +120,8 @@
       ],
       "badges": [
         "popular"
-      ]
+      ],
+      "displayName": "Capybara Winter"
     },
     {
       "id": "cool5",
@@ -149,7 +137,8 @@
       ],
       "badges": [
         "popular"
-      ]
+      ],
+      "displayName": "Capybara Plain"
     },
     {
       "id": "cool6",
@@ -165,7 +154,8 @@
       ],
       "badges": [
         "popular"
-      ]
+      ],
+      "displayName": "Easter Basket"
     },
     {
       "id": "cool7",
@@ -181,7 +171,8 @@
       ],
       "badges": [
         "new"
-      ]
+      ],
+      "displayName": "Bunny Dab"
     },
     {
       "id": "cool8",
@@ -197,7 +188,8 @@
       ],
       "badges": [
         "new"
-      ]
+      ],
+      "displayName": "Capybara Cactus"
     },
     {
       "id": "cool9",
@@ -213,7 +205,8 @@
       ],
       "badges": [
         "trending"
-      ]
+      ],
+      "displayName": "Capybara Lantern"
     },
     {
       "id": "cool10",
@@ -229,7 +222,8 @@
       ],
       "badges": [
         "trending"
-      ]
+      ],
+      "displayName": "Capybara Spa"
     },
     {
       "id": "cute1",
@@ -245,7 +239,8 @@
       ],
       "badges": [
         "hot"
-      ]
+      ],
+      "displayName": "Bunny Dab Eggs"
     },
     {
       "id": "cute2",
@@ -261,7 +256,8 @@
       ],
       "badges": [
         "hot"
-      ]
+      ],
+      "displayName": "Bunny Basket"
     },
     {
       "id": "cute3",
@@ -277,7 +273,8 @@
       ],
       "badges": [
         "hot"
-      ]
+      ],
+      "displayName": "Bunny Pink Dab"
     },
     {
       "id": "cute4",
@@ -293,7 +290,8 @@
       ],
       "badges": [
         "popular"
-      ]
+      ],
+      "displayName": "Bunny Hoodie"
     },
     {
       "id": "cute5",
@@ -309,7 +307,8 @@
       ],
       "badges": [
         "popular"
-      ]
+      ],
+      "displayName": "Bunny Bow"
     },
     {
       "id": "cute6",
@@ -325,7 +324,8 @@
       ],
       "badges": [
         "popular"
-      ]
+      ],
+      "displayName": "Bunny Happy"
     },
     {
       "id": "cute7",
@@ -341,7 +341,8 @@
       ],
       "badges": [
         "new"
-      ]
+      ],
+      "displayName": "Capybara Avocado"
     },
     {
       "id": "cute8",
@@ -357,7 +358,8 @@
       ],
       "badges": [
         "new"
-      ]
+      ],
+      "displayName": "Capybara Sleepy"
     },
     {
       "id": "cute9",
@@ -373,7 +375,8 @@
       ],
       "badges": [
         "trending"
-      ]
+      ],
+      "displayName": "Capybara Coffee"
     },
     {
       "id": "cute10",
@@ -389,7 +392,8 @@
       ],
       "badges": [
         "trending"
-      ]
+      ],
+      "displayName": "Bunny Pink"
     }
   ],
   "backgroundTemplates": [
@@ -399,7 +403,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_01.png",
       "localImageAsset": "",
       "primaryColor": "#FF6B9D",
-      "isPremium": false
+      "isPremium": false,
+      "displayName": "Theme 01"
     },
     {
       "id": "theme_02",
@@ -407,7 +412,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_02.png",
       "localImageAsset": "",
       "primaryColor": "#B388FF",
-      "isPremium": false
+      "isPremium": false,
+      "displayName": "Theme 02"
     },
     {
       "id": "theme_03",
@@ -415,7 +421,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_03.png",
       "localImageAsset": "",
       "primaryColor": "#69F0AE",
-      "isPremium": false
+      "isPremium": false,
+      "displayName": "Theme 03"
     },
     {
       "id": "theme_04",
@@ -423,7 +430,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_04.png",
       "localImageAsset": "",
       "primaryColor": "#FFD54F",
-      "isPremium": false
+      "isPremium": false,
+      "displayName": "Theme 04"
     },
     {
       "id": "theme_05",
@@ -431,7 +439,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_05.png",
       "localImageAsset": "",
       "primaryColor": "#4FC3F7",
-      "isPremium": false
+      "isPremium": false,
+      "displayName": "Theme 05"
     },
     {
       "id": "theme_06",
@@ -439,7 +448,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_06.png",
       "localImageAsset": "",
       "primaryColor": "#FF8A65",
-      "isPremium": false
+      "isPremium": false,
+      "displayName": "Theme 06"
     },
     {
       "id": "theme_07",
@@ -447,7 +457,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_07.png",
       "localImageAsset": "",
       "primaryColor": "#AED581",
-      "isPremium": false
+      "isPremium": false,
+      "displayName": "Theme 07"
     },
     {
       "id": "theme_08",
@@ -455,7 +466,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_08.png",
       "localImageAsset": "",
       "primaryColor": "#F06292",
-      "isPremium": true
+      "isPremium": true,
+      "displayName": "Theme 08"
     },
     {
       "id": "theme_09",
@@ -463,7 +475,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_09.png",
       "localImageAsset": "",
       "primaryColor": "#7986CB",
-      "isPremium": true
+      "isPremium": true,
+      "displayName": "Theme 09"
     },
     {
       "id": "theme_10",
@@ -471,7 +484,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_10.png",
       "localImageAsset": "",
       "primaryColor": "#4DB6AC",
-      "isPremium": true
+      "isPremium": true,
+      "displayName": "Theme 10"
     },
     {
       "id": "theme_11",
@@ -479,7 +493,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_11.png",
       "localImageAsset": "",
       "primaryColor": "#FFB74D",
-      "isPremium": true
+      "isPremium": true,
+      "displayName": "Theme 11"
     },
     {
       "id": "theme_12",
@@ -487,7 +502,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_12.png",
       "localImageAsset": "",
       "primaryColor": "#9575CD",
-      "isPremium": true
+      "isPremium": true,
+      "displayName": "Theme 12"
     },
     {
       "id": "theme_13",
@@ -495,7 +511,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_13.png",
       "localImageAsset": "",
       "primaryColor": "#81C784",
-      "isPremium": true
+      "isPremium": true,
+      "displayName": "Theme 13"
     },
     {
       "id": "theme_14",
@@ -503,7 +520,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_14.png",
       "localImageAsset": "",
       "primaryColor": "#E57373",
-      "isPremium": true
+      "isPremium": true,
+      "displayName": "Theme 14"
     },
     {
       "id": "theme_15",
@@ -511,7 +529,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_15.png",
       "localImageAsset": "",
       "primaryColor": "#64B5F6",
-      "isPremium": true
+      "isPremium": true,
+      "displayName": "Theme 15"
     },
     {
       "id": "theme_16",
@@ -519,7 +538,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_16.png",
       "localImageAsset": "",
       "primaryColor": "#BA68C8",
-      "isPremium": true
+      "isPremium": true,
+      "displayName": "Theme 16"
     },
     {
       "id": "theme_17",
@@ -527,7 +547,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_17.png",
       "localImageAsset": "",
       "primaryColor": "#4DD0E1",
-      "isPremium": true
+      "isPremium": true,
+      "displayName": "Theme 17"
     },
     {
       "id": "theme_18",
@@ -535,7 +556,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_18.png",
       "localImageAsset": "",
       "primaryColor": "#FFF176",
-      "isPremium": true
+      "isPremium": true,
+      "displayName": "Theme 18"
     },
     {
       "id": "theme_19",
@@ -543,7 +565,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_19.png",
       "localImageAsset": "",
       "primaryColor": "#A1887F",
-      "isPremium": true
+      "isPremium": true,
+      "displayName": "Theme 19"
     },
     {
       "id": "theme_20",
@@ -551,7 +574,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_20.png",
       "localImageAsset": "",
       "primaryColor": "#90A4AE",
-      "isPremium": true
+      "isPremium": true,
+      "displayName": "Theme 20"
     },
     {
       "id": "theme_21",
@@ -559,7 +583,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_21.png",
       "localImageAsset": "",
       "primaryColor": "#FF6B9D",
-      "isPremium": true
+      "isPremium": true,
+      "displayName": "Theme 21"
     },
     {
       "id": "theme_22",
@@ -567,7 +592,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_22.png",
       "localImageAsset": "",
       "primaryColor": "#B388FF",
-      "isPremium": true
+      "isPremium": true,
+      "displayName": "Theme 22"
     },
     {
       "id": "theme_23",
@@ -575,7 +601,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_23.png",
       "localImageAsset": "",
       "primaryColor": "#69F0AE",
-      "isPremium": true
+      "isPremium": true,
+      "displayName": "Theme 23"
     },
     {
       "id": "theme_24",
@@ -583,7 +610,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_24.png",
       "localImageAsset": "",
       "primaryColor": "#FFD54F",
-      "isPremium": true
+      "isPremium": true,
+      "displayName": "Theme 24"
     },
     {
       "id": "theme_25",
@@ -591,7 +619,8 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_25.png",
       "localImageAsset": "",
       "primaryColor": "#4FC3F7",
-      "isPremium": true
+      "isPremium": true,
+      "displayName": "Theme 25"
     }
   ],
   "statusBarIcons": [],
