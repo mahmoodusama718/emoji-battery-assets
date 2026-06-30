@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "manifestUrl": "",
   "branding": {
     "appNameKey": "appName",
@@ -51,6 +51,41 @@
         "cute10"
       ],
       "sortOrder": 2,
+      "displayStyle": "horizontal"
+    },
+    {
+      "id": "cartoon",
+      "displayName": "Cartoon",
+      "nameKey": "collectionCartoon",
+      "contentType": "battery_emoji",
+      "itemIds": [
+        "cartoon1",
+        "cartoon2",
+        "cartoon3",
+        "cartoon4",
+        "cartoon5",
+        "cartoon6",
+        "cartoon7",
+        "cartoon8",
+        "cartoon9",
+        "cartoon10",
+        "cartoon11",
+        "cartoon12",
+        "cartoon13",
+        "cartoon14",
+        "cartoon15",
+        "cartoon16",
+        "cartoon17",
+        "cartoon18",
+        "cartoon19",
+        "cartoon20",
+        "cartoon21",
+        "cartoon22",
+        "cartoon23",
+        "cartoon24",
+        "cartoon25"
+      ],
+      "sortOrder": 3,
       "displayStyle": "horizontal"
     }
   ],
@@ -394,6 +429,381 @@
         "trending"
       ],
       "displayName": "Bunny Pink"
+    },
+    {
+      "id": "cartoon1",
+      "nameKey": "emoji_cartoon1",
+      "displayName": "Cartoon 1",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_01.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_01.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon2",
+      "nameKey": "emoji_cartoon2",
+      "displayName": "Cartoon 2",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_02.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_02.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon3",
+      "nameKey": "emoji_cartoon3",
+      "displayName": "Cartoon 3",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_03.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_03.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon4",
+      "nameKey": "emoji_cartoon4",
+      "displayName": "Cartoon 4",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_04.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_04.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon5",
+      "nameKey": "emoji_cartoon5",
+      "displayName": "Cartoon 5",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_05.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_05.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon6",
+      "nameKey": "emoji_cartoon6",
+      "displayName": "Cartoon 6",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_06.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_06.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon7",
+      "nameKey": "emoji_cartoon7",
+      "displayName": "Cartoon 7",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_07.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_07.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon8",
+      "nameKey": "emoji_cartoon8",
+      "displayName": "Cartoon 8",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_08.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_08.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon9",
+      "nameKey": "emoji_cartoon9",
+      "displayName": "Cartoon 9",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_09.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_09.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon10",
+      "nameKey": "emoji_cartoon10",
+      "displayName": "Cartoon 10",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_10.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_10.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon11",
+      "nameKey": "emoji_cartoon11",
+      "displayName": "Cartoon 11",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_11.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_11.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon12",
+      "nameKey": "emoji_cartoon12",
+      "displayName": "Cartoon 12",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_12.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_12.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon13",
+      "nameKey": "emoji_cartoon13",
+      "displayName": "Cartoon 13",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_13.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_13.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon14",
+      "nameKey": "emoji_cartoon14",
+      "displayName": "Cartoon 14",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_14.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_14.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon15",
+      "nameKey": "emoji_cartoon15",
+      "displayName": "Cartoon 15",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_15.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_15.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon16",
+      "nameKey": "emoji_cartoon16",
+      "displayName": "Cartoon 16",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_16.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_16.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon17",
+      "nameKey": "emoji_cartoon17",
+      "displayName": "Cartoon 17",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_17.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_17.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon18",
+      "nameKey": "emoji_cartoon18",
+      "displayName": "Cartoon 18",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_18.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_18.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon19",
+      "nameKey": "emoji_cartoon19",
+      "displayName": "Cartoon 19",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_19.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_19.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon20",
+      "nameKey": "emoji_cartoon20",
+      "displayName": "Cartoon 20",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_20.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_20.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon21",
+      "nameKey": "emoji_cartoon21",
+      "displayName": "Cartoon 21",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_21.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_21.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon22",
+      "nameKey": "emoji_cartoon22",
+      "displayName": "Cartoon 22",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_22.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_22.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon23",
+      "nameKey": "emoji_cartoon23",
+      "displayName": "Cartoon 23",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_23.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_23.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon24",
+      "nameKey": "emoji_cartoon24",
+      "displayName": "Cartoon 24",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_24.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_24.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "cartoon25",
+      "nameKey": "emoji_cartoon25",
+      "displayName": "Cartoon 25",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_25.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_25.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "cartoon",
+        "gif"
+      ],
+      "badges": []
     }
   ],
   "backgroundTemplates": [
