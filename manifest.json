@@ -17,7 +17,14 @@
       "id": "hot",
       "nameKey": "collectionHot",
       "contentType": "battery_emoji",
-      "itemIds": ["cool1", "cool2", "cool3", "cute1", "cute2", "cute3"],
+      "itemIds": [
+        "cool1",
+        "cool2",
+        "cool3",
+        "cute1",
+        "cute2",
+        "cute3"
+      ],
       "sortOrder": 1,
       "displayStyle": "horizontal"
     },
@@ -25,7 +32,14 @@
       "id": "popular",
       "nameKey": "collectionPopular",
       "contentType": "battery_emoji",
-      "itemIds": ["cool4", "cool5", "cool6", "cute4", "cute5", "cute6"],
+      "itemIds": [
+        "cool4",
+        "cool5",
+        "cool6",
+        "cute4",
+        "cute5",
+        "cute6"
+      ],
       "sortOrder": 2,
       "displayStyle": "horizontal"
     },
@@ -33,7 +47,12 @@
       "id": "new",
       "nameKey": "collectionNew",
       "contentType": "battery_emoji",
-      "itemIds": ["cool7", "cool8", "cute7", "cute8"],
+      "itemIds": [
+        "cool7",
+        "cool8",
+        "cute7",
+        "cute8"
+      ],
       "sortOrder": 3,
       "displayStyle": "horizontal"
     },
@@ -41,7 +60,12 @@
       "id": "trending",
       "nameKey": "collectionTrending",
       "contentType": "battery_emoji",
-      "itemIds": ["cool9", "cool10", "cute9", "cute10"],
+      "itemIds": [
+        "cool9",
+        "cool10",
+        "cute9",
+        "cute10"
+      ],
       "sortOrder": 4,
       "displayStyle": "horizontal"
     }
@@ -55,8 +79,13 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cool", "gif"],
-      "badges": ["hot"]
+      "tags": [
+        "cool",
+        "gif"
+      ],
+      "badges": [
+        "hot"
+      ]
     },
     {
       "id": "cool2",
@@ -66,8 +95,13 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cool", "gif"],
-      "badges": ["hot"]
+      "tags": [
+        "cool",
+        "gif"
+      ],
+      "badges": [
+        "hot"
+      ]
     },
     {
       "id": "cool3",
@@ -77,8 +111,13 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cool", "gif"],
-      "badges": ["hot"]
+      "tags": [
+        "cool",
+        "gif"
+      ],
+      "badges": [
+        "hot"
+      ]
     },
     {
       "id": "cool4",
@@ -88,8 +127,13 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cool", "gif"],
-      "badges": ["popular"]
+      "tags": [
+        "cool",
+        "gif"
+      ],
+      "badges": [
+        "popular"
+      ]
     },
     {
       "id": "cool5",
@@ -99,8 +143,13 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cool", "gif"],
-      "badges": ["popular"]
+      "tags": [
+        "cool",
+        "gif"
+      ],
+      "badges": [
+        "popular"
+      ]
     },
     {
       "id": "cool6",
@@ -110,8 +159,13 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cool", "gif"],
-      "badges": ["popular"]
+      "tags": [
+        "cool",
+        "gif"
+      ],
+      "badges": [
+        "popular"
+      ]
     },
     {
       "id": "cool7",
@@ -121,8 +175,13 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cool", "gif"],
-      "badges": ["new"]
+      "tags": [
+        "cool",
+        "gif"
+      ],
+      "badges": [
+        "new"
+      ]
     },
     {
       "id": "cool8",
@@ -132,8 +191,13 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cool", "gif"],
-      "badges": ["new"]
+      "tags": [
+        "cool",
+        "gif"
+      ],
+      "badges": [
+        "new"
+      ]
     },
     {
       "id": "cool9",
@@ -143,8 +207,13 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cool", "gif"],
-      "badges": ["trending"]
+      "tags": [
+        "cool",
+        "gif"
+      ],
+      "badges": [
+        "trending"
+      ]
     },
     {
       "id": "cool10",
@@ -154,8 +223,13 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cool", "gif"],
-      "badges": ["trending"]
+      "tags": [
+        "cool",
+        "gif"
+      ],
+      "badges": [
+        "trending"
+      ]
     },
     {
       "id": "cute1",
@@ -165,8 +239,13 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cute", "gif"],
-      "badges": ["hot"]
+      "tags": [
+        "cute",
+        "gif"
+      ],
+      "badges": [
+        "hot"
+      ]
     },
     {
       "id": "cute2",
@@ -176,8 +255,13 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cute", "gif"],
-      "badges": ["hot"]
+      "tags": [
+        "cute",
+        "gif"
+      ],
+      "badges": [
+        "hot"
+      ]
     },
     {
       "id": "cute3",
@@ -187,8 +271,13 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cute", "gif"],
-      "badges": ["hot"]
+      "tags": [
+        "cute",
+        "gif"
+      ],
+      "badges": [
+        "hot"
+      ]
     },
     {
       "id": "cute4",
@@ -198,8 +287,13 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cute", "gif"],
-      "badges": ["popular"]
+      "tags": [
+        "cute",
+        "gif"
+      ],
+      "badges": [
+        "popular"
+      ]
     },
     {
       "id": "cute5",
@@ -209,8 +303,13 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cute", "gif"],
-      "badges": ["popular"]
+      "tags": [
+        "cute",
+        "gif"
+      ],
+      "badges": [
+        "popular"
+      ]
     },
     {
       "id": "cute6",
@@ -220,8 +319,13 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cute", "gif"],
-      "badges": ["popular"]
+      "tags": [
+        "cute",
+        "gif"
+      ],
+      "badges": [
+        "popular"
+      ]
     },
     {
       "id": "cute7",
@@ -231,8 +335,13 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cute", "gif"],
-      "badges": ["new"]
+      "tags": [
+        "cute",
+        "gif"
+      ],
+      "badges": [
+        "new"
+      ]
     },
     {
       "id": "cute8",
@@ -242,8 +351,13 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cute", "gif"],
-      "badges": ["new"]
+      "tags": [
+        "cute",
+        "gif"
+      ],
+      "badges": [
+        "new"
+      ]
     },
     {
       "id": "cute9",
@@ -253,8 +367,13 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cute", "gif"],
-      "badges": ["trending"]
+      "tags": [
+        "cute",
+        "gif"
+      ],
+      "badges": [
+        "trending"
+      ]
     },
     {
       "id": "cute10",
@@ -264,11 +383,217 @@
       "localPreviewAsset": "",
       "localAnimationAsset": "",
       "isPremium": false,
-      "tags": ["cute", "gif"],
-      "badges": ["trending"]
+      "tags": [
+        "cute",
+        "gif"
+      ],
+      "badges": [
+        "trending"
+      ]
     }
   ],
-  "backgroundTemplates": [],
+  "backgroundTemplates": [
+    {
+      "id": "theme_01",
+      "nameKey": "bg_theme_01",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_01.png",
+      "localImageAsset": "",
+      "primaryColor": "#FF6B9D",
+      "isPremium": false
+    },
+    {
+      "id": "theme_02",
+      "nameKey": "bg_theme_02",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_02.png",
+      "localImageAsset": "",
+      "primaryColor": "#B388FF",
+      "isPremium": false
+    },
+    {
+      "id": "theme_03",
+      "nameKey": "bg_theme_03",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_03.png",
+      "localImageAsset": "",
+      "primaryColor": "#69F0AE",
+      "isPremium": false
+    },
+    {
+      "id": "theme_04",
+      "nameKey": "bg_theme_04",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_04.png",
+      "localImageAsset": "",
+      "primaryColor": "#FFD54F",
+      "isPremium": false
+    },
+    {
+      "id": "theme_05",
+      "nameKey": "bg_theme_05",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_05.png",
+      "localImageAsset": "",
+      "primaryColor": "#4FC3F7",
+      "isPremium": false
+    },
+    {
+      "id": "theme_06",
+      "nameKey": "bg_theme_06",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_06.png",
+      "localImageAsset": "",
+      "primaryColor": "#FF8A65",
+      "isPremium": false
+    },
+    {
+      "id": "theme_07",
+      "nameKey": "bg_theme_07",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_07.png",
+      "localImageAsset": "",
+      "primaryColor": "#AED581",
+      "isPremium": false
+    },
+    {
+      "id": "theme_08",
+      "nameKey": "bg_theme_08",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_08.png",
+      "localImageAsset": "",
+      "primaryColor": "#F06292",
+      "isPremium": true
+    },
+    {
+      "id": "theme_09",
+      "nameKey": "bg_theme_09",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_09.png",
+      "localImageAsset": "",
+      "primaryColor": "#7986CB",
+      "isPremium": true
+    },
+    {
+      "id": "theme_10",
+      "nameKey": "bg_theme_10",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_10.png",
+      "localImageAsset": "",
+      "primaryColor": "#4DB6AC",
+      "isPremium": true
+    },
+    {
+      "id": "theme_11",
+      "nameKey": "bg_theme_11",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_11.png",
+      "localImageAsset": "",
+      "primaryColor": "#FFB74D",
+      "isPremium": true
+    },
+    {
+      "id": "theme_12",
+      "nameKey": "bg_theme_12",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_12.png",
+      "localImageAsset": "",
+      "primaryColor": "#9575CD",
+      "isPremium": true
+    },
+    {
+      "id": "theme_13",
+      "nameKey": "bg_theme_13",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_13.png",
+      "localImageAsset": "",
+      "primaryColor": "#81C784",
+      "isPremium": true
+    },
+    {
+      "id": "theme_14",
+      "nameKey": "bg_theme_14",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_14.png",
+      "localImageAsset": "",
+      "primaryColor": "#E57373",
+      "isPremium": true
+    },
+    {
+      "id": "theme_15",
+      "nameKey": "bg_theme_15",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_15.png",
+      "localImageAsset": "",
+      "primaryColor": "#64B5F6",
+      "isPremium": true
+    },
+    {
+      "id": "theme_16",
+      "nameKey": "bg_theme_16",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_16.png",
+      "localImageAsset": "",
+      "primaryColor": "#BA68C8",
+      "isPremium": true
+    },
+    {
+      "id": "theme_17",
+      "nameKey": "bg_theme_17",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_17.png",
+      "localImageAsset": "",
+      "primaryColor": "#4DD0E1",
+      "isPremium": true
+    },
+    {
+      "id": "theme_18",
+      "nameKey": "bg_theme_18",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_18.png",
+      "localImageAsset": "",
+      "primaryColor": "#FFF176",
+      "isPremium": true
+    },
+    {
+      "id": "theme_19",
+      "nameKey": "bg_theme_19",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_19.png",
+      "localImageAsset": "",
+      "primaryColor": "#A1887F",
+      "isPremium": true
+    },
+    {
+      "id": "theme_20",
+      "nameKey": "bg_theme_20",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_20.png",
+      "localImageAsset": "",
+      "primaryColor": "#90A4AE",
+      "isPremium": true
+    },
+    {
+      "id": "theme_21",
+      "nameKey": "bg_theme_21",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_21.png",
+      "localImageAsset": "",
+      "primaryColor": "#FF6B9D",
+      "isPremium": true
+    },
+    {
+      "id": "theme_22",
+      "nameKey": "bg_theme_22",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_22.png",
+      "localImageAsset": "",
+      "primaryColor": "#B388FF",
+      "isPremium": true
+    },
+    {
+      "id": "theme_23",
+      "nameKey": "bg_theme_23",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_23.png",
+      "localImageAsset": "",
+      "primaryColor": "#69F0AE",
+      "isPremium": true
+    },
+    {
+      "id": "theme_24",
+      "nameKey": "bg_theme_24",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_24.png",
+      "localImageAsset": "",
+      "primaryColor": "#FFD54F",
+      "isPremium": true
+    },
+    {
+      "id": "theme_25",
+      "nameKey": "bg_theme_25",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/backgrounds/theme_25.png",
+      "localImageAsset": "",
+      "primaryColor": "#4FC3F7",
+      "isPremium": true
+    }
+  ],
   "statusBarIcons": [],
   "stickers": [],
   "notchStyles": [],
