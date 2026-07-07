@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "manifestUrl": "",
   "branding": {
     "appNameKey": "appName",
@@ -59,33 +59,55 @@
       "nameKey": "collectionCartoon",
       "contentType": "battery_emoji",
       "itemIds": [
-        "cartoon_01",
-        "cartoon_02",
-        "cartoon_03",
-        "cartoon_04",
-        "cartoon_05",
-        "cartoon_06",
-        "cartoon_07",
-        "cartoon_08",
-        "cartoon_09",
-        "cartoon_10",
-        "cartoon_11",
-        "cartoon_12",
-        "cartoon_13",
-        "cartoon_14",
-        "cartoon_15",
-        "cartoon_16",
-        "cartoon_17",
-        "cartoon_18",
-        "cartoon_19",
-        "cartoon_20",
-        "cartoon_21",
-        "cartoon_22",
-        "cartoon_23",
-        "cartoon_24",
-        "cartoon_25"
+        "cartoon1",
+        "cartoon2",
+        "cartoon3",
+        "cartoon4",
+        "cartoon5",
+        "cartoon6",
+        "cartoon7",
+        "cartoon8",
+        "cartoon9",
+        "cartoon10",
+        "cartoon11",
+        "cartoon12",
+        "cartoon13",
+        "cartoon14",
+        "cartoon15",
+        "cartoon16",
+        "cartoon17",
+        "cartoon18",
+        "cartoon19",
+        "cartoon20",
+        "cartoon21",
+        "cartoon22",
+        "cartoon23",
+        "cartoon24",
+        "cartoon25"
       ],
       "sortOrder": 3,
+      "displayStyle": "horizontal"
+    },
+    {
+      "id": "anime",
+      "displayName": "Anime",
+      "nameKey": "collectionAnime",
+      "contentType": "battery_emoji",
+      "itemIds": [
+        "anime1",
+        "anime2",
+        "anime3",
+        "anime4",
+        "anime5",
+        "anime6",
+        "anime7",
+        "anime8",
+        "anime9",
+        "anime10",
+        "anime11",
+        "anime12"
+      ],
+      "sortOrder": 4,
       "displayStyle": "horizontal"
     }
   ],
@@ -801,6 +823,186 @@
       "isPremium": false,
       "tags": [
         "cartoon",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "anime1",
+      "nameKey": "emoji_anime1",
+      "displayName": "Anime 1",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime1.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime1.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "anime",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "anime2",
+      "nameKey": "emoji_anime2",
+      "displayName": "Anime 2",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime2.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime2.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "anime",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "anime3",
+      "nameKey": "emoji_anime3",
+      "displayName": "Anime 3",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime3.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime3.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "anime",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "anime4",
+      "nameKey": "emoji_anime4",
+      "displayName": "Anime 4",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime4.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime4.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "anime",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "anime5",
+      "nameKey": "emoji_anime5",
+      "displayName": "Anime 5",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime5.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime5.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "anime",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "anime6",
+      "nameKey": "emoji_anime6",
+      "displayName": "Anime 6",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime6.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime6.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "anime",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "anime7",
+      "nameKey": "emoji_anime7",
+      "displayName": "Anime 7",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime7.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime7.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "anime",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "anime8",
+      "nameKey": "emoji_anime8",
+      "displayName": "Anime 8",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime8.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime8.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "anime",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "anime9",
+      "nameKey": "emoji_anime9",
+      "displayName": "Anime 9",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime9.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime9.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "anime",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "anime10",
+      "nameKey": "emoji_anime10",
+      "displayName": "Anime 10",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime10.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime10.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "anime",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "anime11",
+      "nameKey": "emoji_anime11",
+      "displayName": "Anime 11",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime11.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime11.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "anime",
+        "gif"
+      ],
+      "badges": []
+    },
+    {
+      "id": "anime12",
+      "nameKey": "emoji_anime12",
+      "displayName": "Anime 12",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime12.gif",
+      "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime12.gif",
+      "localPreviewAsset": "",
+      "localAnimationAsset": "",
+      "isPremium": false,
+      "tags": [
+        "anime",
         "gif"
       ],
       "badges": []
