@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "manifestUrl": "",
   "branding": {
     "appNameKey": "appName",
@@ -238,7 +238,7 @@
       "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool8.gif",
       "localPreviewAsset": "",
       "localAnimationAsset": "",
-      "isPremium": false,
+      "isPremium": true,
       "tags": [
         "cool",
         "gif"
@@ -255,7 +255,7 @@
       "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool9.gif",
       "localPreviewAsset": "",
       "localAnimationAsset": "",
-      "isPremium": false,
+      "isPremium": true,
       "tags": [
         "cool",
         "gif"
@@ -272,7 +272,7 @@
       "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cool/cool10.gif",
       "localPreviewAsset": "",
       "localAnimationAsset": "",
-      "isPremium": false,
+      "isPremium": true,
       "tags": [
         "cool",
         "gif"
@@ -408,7 +408,7 @@
       "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute8.gif",
       "localPreviewAsset": "",
       "localAnimationAsset": "",
-      "isPremium": false,
+      "isPremium": true,
       "tags": [
         "cute",
         "gif"
@@ -425,7 +425,7 @@
       "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute9.gif",
       "localPreviewAsset": "",
       "localAnimationAsset": "",
-      "isPremium": false,
+      "isPremium": true,
       "tags": [
         "cute",
         "gif"
@@ -442,7 +442,7 @@
       "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cute/cute10.gif",
       "localPreviewAsset": "",
       "localAnimationAsset": "",
-      "isPremium": false,
+      "isPremium": true,
       "tags": [
         "cute",
         "gif"
@@ -715,7 +715,7 @@
       "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_18.gif",
       "localPreviewAsset": "",
       "localAnimationAsset": "",
-      "isPremium": false,
+      "isPremium": true,
       "tags": [
         "cartoon",
         "gif"
@@ -730,7 +730,7 @@
       "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_19.gif",
       "localPreviewAsset": "",
       "localAnimationAsset": "",
-      "isPremium": false,
+      "isPremium": true,
       "tags": [
         "cartoon",
         "gif"
@@ -745,7 +745,7 @@
       "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_20.gif",
       "localPreviewAsset": "",
       "localAnimationAsset": "",
-      "isPremium": false,
+      "isPremium": true,
       "tags": [
         "cartoon",
         "gif"
@@ -760,7 +760,7 @@
       "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_21.gif",
       "localPreviewAsset": "",
       "localAnimationAsset": "",
-      "isPremium": false,
+      "isPremium": true,
       "tags": [
         "cartoon",
         "gif"
@@ -775,7 +775,7 @@
       "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_22.gif",
       "localPreviewAsset": "",
       "localAnimationAsset": "",
-      "isPremium": false,
+      "isPremium": true,
       "tags": [
         "cartoon",
         "gif"
@@ -790,7 +790,7 @@
       "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_23.gif",
       "localPreviewAsset": "",
       "localAnimationAsset": "",
-      "isPremium": false,
+      "isPremium": true,
       "tags": [
         "cartoon",
         "gif"
@@ -805,7 +805,7 @@
       "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_24.gif",
       "localPreviewAsset": "",
       "localAnimationAsset": "",
-      "isPremium": false,
+      "isPremium": true,
       "tags": [
         "cartoon",
         "gif"
@@ -820,7 +820,7 @@
       "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/cartoon/cartoon_25.gif",
       "localPreviewAsset": "",
       "localAnimationAsset": "",
-      "isPremium": false,
+      "isPremium": true,
       "tags": [
         "cartoon",
         "gif"
@@ -955,7 +955,7 @@
       "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime9.gif",
       "localPreviewAsset": "",
       "localAnimationAsset": "",
-      "isPremium": false,
+      "isPremium": true,
       "tags": [
         "anime",
         "gif"
@@ -970,7 +970,7 @@
       "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime10.gif",
       "localPreviewAsset": "",
       "localAnimationAsset": "",
-      "isPremium": false,
+      "isPremium": true,
       "tags": [
         "anime",
         "gif"
@@ -985,7 +985,7 @@
       "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime11.gif",
       "localPreviewAsset": "",
       "localAnimationAsset": "",
-      "isPremium": false,
+      "isPremium": true,
       "tags": [
         "anime",
         "gif"
@@ -1000,7 +1000,7 @@
       "animationUrl": "https://cdn.jsdelivr.net/gh/mahmoodusama718/emoji-battery-assets@main/gifs/anime/anime12.gif",
       "localPreviewAsset": "",
       "localAnimationAsset": "",
-      "isPremium": false,
+      "isPremium": true,
       "tags": [
         "anime",
         "gif"
